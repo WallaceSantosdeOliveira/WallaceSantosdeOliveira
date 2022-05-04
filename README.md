@@ -6,6 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wallace.santos.1272)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceSantosdeOliveira)](https://github.com/WallaceSantosdeOliveira/github-readme-stats)
+
 ![Wallace GitHub stats](https://github-readme-stats.vercel.app/api?username=WallaceSantosdeOliveira&show_icons=true&theme=dracula)
 
 ### Tecnologia que mais uso no meu dia
