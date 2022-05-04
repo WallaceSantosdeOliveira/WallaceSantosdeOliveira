@@ -7,7 +7,7 @@
 
 ![Wallace GitHub stats](https://github-readme-stats.vercel.app/api?username=WallaceSantosdeOliveira&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceSantosdeOliveira)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceSantosdeOliveira)](https://github.com/WallaceSantosdeOliveira/github-readme-stats)
 
 ### Tecnologia que mais uso no meu dia
 
